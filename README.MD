@@ -3,6 +3,8 @@
 This project was a proof of concept to build and control a drone over the internet.
 The software components within this project are built with NodeJS using existing modules.
 
+![Drone](/action.png)
+
 # Overview
 
 ```
